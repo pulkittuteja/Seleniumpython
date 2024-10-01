@@ -1,0 +1,33 @@
+{
+  "cookie": {
+    "name": "cookie",
+    "element_type": "button",
+    "find_by": "ID",
+    "identifier": "CybotCookiebotDialogBodyLevelButtonAccept"
+  },
+  "textbox_email": {
+    "name": "textbox_email",
+    "element_type": "textbox",
+    "find_by": "ID",
+    "identifier": "email"
+  },
+  "textbox_password": {
+    "name": "textbox_password",
+    "element_type": "input",
+    "find_by": "ID",
+    "identifier": "password"
+  },
+  "button_signIn": {
+    "name": "button_signIn",
+    "element_type": "button",
+    "find_by": "XPATH",
+    "identifier": "//form//button[@type='submit']/child::span"
+  },
+  "button_signIn_link": {
+    "name": "button_signIn_link",
+    "element_type": "button",
+    "find_by": "XPATH",
+    "identifier": "//form//a[@href='#/']"
+  }
+
+}
