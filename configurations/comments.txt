@@ -1,5 +1,0 @@
-This is a file used for storing different ENV Variables like DB Values their host name , user , password
-DB name , collection name in case of Mongo etc.
-For API's their Endpoint or their Authtoken or JWT token whatever authentication they are supporting
-,along with that API resources and values so that we don't have to change
-that again in our code we can just update out configurations file and update those values here

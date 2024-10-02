@@ -2,3 +2,8 @@
 Used for storing the Package and Version so that we don't have to download
 each and every package again and again
 """
+
+Package            Version
+------------------ --------
+async-generator    1.10
+attrs              23.1.0
