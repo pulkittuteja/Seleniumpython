@@ -21,13 +21,13 @@ Framework
 The Setup:
 
 ->Create new project and install required Packages/plugins.
-Selenium: Selenium Libraries
-Webdriver-manager: Webdriver
-Python: Python Unit Test Framework
-pytest-html: PyTest HTML reports
-pytest-xdist: Run tests parallel
-Openpyxl: MS Excel support
-Allure-pytest: to generate allure reports
+1. Selenium: Selenium Libraries
+2. Webdriver-manager: Webdriver
+3. Python: Python Unit Test Framework
+4. pytest-html: PyTest HTML reports
+5. pytest-xdist: Run tests parallel
+6. Openpyxl: MS Excel support
+7. Allure-pytest: to generate allure reports
 
 ![Folder Structure](https://github.com/user-attachments/assets/10ab07f1-293c-4cee-9100-21aebd0e6442)
 
