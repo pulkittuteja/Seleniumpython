@@ -20,8 +20,7 @@ Framework
 
 The Setup:
 
-Create new project and install required Packages/plugins.
-
+->Create new project and install required Packages/plugins.
 Selenium: Selenium Libraries
 Webdriver-manager: Webdriver
 Python: Python Unit Test Framework
@@ -32,7 +31,6 @@ Allure-pytest: to generate allure reports
 
 ![Folder Structure](https://github.com/user-attachments/assets/10ab07f1-293c-4cee-9100-21aebd0e6442)
 
-for API Automation functions
-
+->for API Automation functions
 Locators->api->api_requests.py
 
